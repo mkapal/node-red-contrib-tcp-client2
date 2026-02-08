@@ -1,9 +1,9 @@
 # node-red-contrib-tcp-client2
 # Node Red Dynamic TCP communication
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jorgen-k/node-red-contrib-tcp-client2?label=package)
-![npm](https://img.shields.io/npm/v/node-red-contrib-tcp-client2)
-![npm](https://img.shields.io/npm/dm/node-red-contrib-tcp-client2)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/mkapal/node-red-contrib-tcp-client2?label=package)
+![npm](https://img.shields.io/npm/v/node-red-contrib-tcp-client3)
+![npm](https://img.shields.io/npm/dm/node-red-contrib-tcp-client3)
 
 This package provides a TCP client and a TCP server node for Node-RED, enabling connections to and from designated hosts. It serves as a replacement for the deprecated node-red-contrib-tcp-client by Tiago Costa.
 
